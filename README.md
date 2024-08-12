@@ -1,2 +1,2 @@
 # sadikur.cc
-Personal website.
+Personal website (WIP).
